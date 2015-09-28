@@ -15,9 +15,9 @@ public class User {
 	
 	private String geniusid;
 	private String geniusname;
-	private boolean scanTaken;
-	private String scannedDate;
+	private boolean scantakenyes;
+	private String geniusdos;
 	private String meetingDay;
-	private String comments;
+	private String geniuspreviousremarks;
 
 }
